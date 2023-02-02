@@ -1,0 +1,59 @@
+<!-- HTML basics learning Day1 -->
+<!--   CODE  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Day1</title>
+</head>
+<body>
+   <!--These are the tags which allow us to add a heading--> 
+    <h1>
+        This is the first day!
+    </h1>
+    <h2> h2 is slightly smaller than the h1</h2>
+    <h4>h4 is somewhere in the middle</h4>
+    <h6>h6 is the smallest among all of these tags</h6>
+    <p title="this is the course">Basics of HTML</p>
+    <p>this is the 2nd paragraph</p>
+    <p>this is the 3rd paragraph</p>
+    <hr>
+    <h2>This section is related to the list</h2>
+    <ol>
+        <li>this is the first item</li>
+        <li>this is the second item</li>
+        <li>this is the third item</li>
+    </ol>
+
+    <h2>this is an unordered list of fruit</h2>
+    <ul>
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Kiwi</li>
+    </ul>
+
+    <p><strong>Hello</strong> <em>World</em></p>
+    <p>
+        <ul>
+            <li>
+                <ol>
+                    <li>This is another item</li>
+                </ol>
+            </li>
+        </ul>
+    </p>
+
+    <hr>
+
+    <a href="second page.html" target="_blank">Link to Second page</a>
+
+
+    <img width="200px" height="200px" src="https://clipartcraft.com/images/html5-logo-png-transparent-5.png" alt="image for html5">
+
+
+
+</body>
+</html>
