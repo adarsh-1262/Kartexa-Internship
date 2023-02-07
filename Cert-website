@@ -1,0 +1,40 @@
+<!--      Created the page of website using HTML and tried to give my best  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Intern Certificate</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <script src="myScript.js"></script>
+    <div class="container">
+        <div class="logo">
+            <img id="logo-image" height="80px" width="120px" src="https://career.kartexa.com/wp-content/uploads/2020/02/transparent.png" alt="">
+
+        </div>
+        <br>
+        <br>
+
+        <div class="download-button">
+            <h4>Download your certificate</h4>
+            <input class="button1" type="button" value="Enter your name..." onclick="msg()">
+            <br>
+            <br>
+            <input class="button2" type="button" value="Download" onclick="msg()">
+
+
+
+        </div>
+        <div class="certimg">
+            <img id="certimg" height="400px" width="600px" src="./cert-1.png" alt="">
+
+        </div>
+    </div>
+    
+</body>
+</html>
